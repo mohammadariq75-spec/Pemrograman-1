@@ -1,8 +1,8 @@
-package Latihan1;
+package Latihan;
 
 import java.util.Scanner;
 
-public class P8_L1 {
+public class latihan1 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
